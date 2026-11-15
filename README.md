@@ -9,11 +9,8 @@ My code for the [RSNA Knee Abnormality Detection](https://www.kaggle.com/competi
 competition on Kaggle. The task was to read a knee MRI study and give a probability for 12 findings, scored by mean
 AUC across the 12 columns.
 
-I finished **102nd of 6,299** (silver), **0.948 private / 0.961 public**, with a 59-model ensemble trained on labels
+The solution finished **102nd of 6,299** (silver), **0.948 private / 0.961 public**, with a 59-model ensemble trained on labels
 pulled out of the radiology reports by an LLM. No images were hand-labelled.
-
-I'm a medical student planning to go into radiology, so this was a chance to work on the kind of
-images I'll be reading for a living.
 
 ---
 
