@@ -1,0 +1,19 @@
+# Derived from the imports in src/ and the notebook. Versions were NOT recorded in this release: pin to your own environment.
+numpy
+pandas
+pyarrow
+opencv-python-headless
+pydicom
+torch
+torchvision
+timm
+# only for the optional Qwen vision-slice backbone (src/qwenvit.py)
+transformers
+safetensors
+# offline DICOM decoders used by the notebook (installed there from a wheels dataset)
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+pylibjpeg-rle
+python-gdcm
+pyjpegls
