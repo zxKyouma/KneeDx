@@ -211,7 +211,6 @@ point to internal experiment folders that aren't part of this release.
   **dreaddevelopment**'s Raptor CoAtNet/MIL recipe. I trained those members myself from timm ImageNet weights on my
   own labels and folds.
 - Backbones from [timm](https://github.com/huggingface/pytorch-image-models) and torchvision.
-- Training ran on the Monash M3 HPC cluster.
 - OAI data is used under the OAI data-use terms and is not redistributed here.
 - Thanks to RSNA and Kaggle for running the competition, and to the top teams for writing up their solutions.
 
